@@ -4,7 +4,7 @@
   "description": "backend forms",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "bhavesh varu",
   "license": "ISC",
